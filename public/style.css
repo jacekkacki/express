@@ -1,0 +1,9 @@
+h2 {
+  font-weight: lighter;
+  font-style: italic;
+}
+
+.dark {
+  background-color: darkslategray;
+  color: whitesmoke;
+}
