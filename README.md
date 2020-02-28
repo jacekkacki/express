@@ -12,7 +12,8 @@ Or
 
 ## Usage
 
-In console write `node server.js` or `nodemon server.js` and open window in browser.
+Run HTTP server with Handlebars write `yarn start` or `npm start`.
+Starting the server with automatic refreshing option write `yarn watch` or `npm watch`.
   - `localhost:8000` - home page,
   - `localhost:8000/about` - about page,
   - `localhost:8000/contact` - contact page,
